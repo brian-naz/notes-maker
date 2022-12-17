@@ -9,7 +9,7 @@ Demo
 
 Clone the repo:
 ```bash
-https://github.com/brian-naz/notes-maker.git
+git clone https://github.com/brian-naz/notes-maker.git
 ```
 Go to the directory and simply type:
 ```bash
