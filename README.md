@@ -30,3 +30,4 @@ v1.0:
 
 -The edit button does not function
 -The "Notes Saved" snackbar (popup) does not show up after saving a note
+-First deployment is very slow. Will have to downgrade React in next release
