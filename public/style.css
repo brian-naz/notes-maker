@@ -1,0 +1,36 @@
+.text-justify {
+  text-align: justify;
+}
+
+.label-icon {
+  margin-top: -5px !important;
+}
+
+.row {
+  width: 90%;
+  padding: 20px 10px;
+  min-height: calc(90vh - 74px);
+}
+
+.new-note {
+  height: auto !important;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 50%;
+}
+
+.materialize-textarea {
+  border-bottom: 0px !important;
+  box-shadow: none !important;
+}
+
+.hero-icon {
+  font-size: 1.25em;
+}
+
+nav {
+  font-family: "Poppins";
+  min-height: 70px;
+}
